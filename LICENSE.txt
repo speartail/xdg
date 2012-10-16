@@ -1,0 +1,5 @@
+Copyright (c) 2008-2012 Rubyworks
+
+Distributed under the terms of the *FreeBSD* license.
+
+See COPYING.rdoc file for details.
