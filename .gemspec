@@ -92,7 +92,7 @@ module DotRuby
 
     #
     def name
-      metadata['name'] || metadata['title'].downcase.gsub(/\W+/,'_')
+      'speartail-xdg' || metadata['name'] || metadata['title'].downcase.gsub(/\W+/,'_')
     end
 
     #
